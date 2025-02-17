@@ -6,13 +6,15 @@ namespace alexm_maui
     {
         public bool IsItActive { get; set; } = true;
         public Dictionary<string, EventHandler> BottomButtons { get; set;}
+        private bool _isCycleRunning = false;
+        private CancellationTokenSource _cancellationTokenSource;
         public VerticalStackLayout MainContainer { get; set; } = new VerticalStackLayout()
         {
             BackgroundColor = Color.FromArgb("#0b0d17"),
             VerticalOptions = LayoutOptions.Fill,
             HorizontalOptions = LayoutOptions.Fill
         };
-        public HorizontalStackLayout BottomContainer { get; set; } = new HorizontalStackLayout()
+        public VerticalStackLayout BottomContainer { get; set; } = new VerticalStackLayout()
         {
             
             VerticalOptions = LayoutOptions.End,
@@ -44,8 +46,10 @@ namespace alexm_maui
         public void InitTrafficLightsButtons()
         {
             List<Button> buttons = new List<Button>();
+
             foreach(TrafficLightState state in States)
             {
+
                 Button stateButton = new Button() { 
                     BackgroundColor = state.CurrentColor,
                     WidthRequest = 100,
@@ -70,8 +74,19 @@ namespace alexm_maui
         }
         private void InitButtons()
         {
+            int count = 0;
+            HorizontalStackLayout currentContainer = new HorizontalStackLayout()
+            {
+                BackgroundColor = Color.FromArgb("#121526")
+            };
             foreach(KeyValuePair<string, EventHandler> bottomButtonProps in BottomButtons)
             {
+                if(count == 0)
+                {
+                    BottomContainer.Children.Add(currentContainer);
+                }
+                
+                
                 Button button = new Button
                 {
                     Text = bottomButtonProps.Key,
@@ -82,7 +97,16 @@ namespace alexm_maui
                     BackgroundColor = Color.FromArgb("#0b0d17")
                 };
                 button.Clicked += bottomButtonProps.Value;
-                BottomContainer.Children.Add(button);
+                currentContainer.Children.Add(button);
+                count++;
+                if(count == 2)
+                {
+                    currentContainer = new HorizontalStackLayout()
+                    {
+                        BackgroundColor = Color.FromArgb("#121526")
+                    };
+                    count = 0;
+                }
             }
            
         }
@@ -103,8 +127,7 @@ namespace alexm_maui
             if(! trafficLightState.Active) StateTextLabel.Text = "";
             else StateTextLabel.Text = trafficLightState.Text;
         }
-        private bool _isCycleRunning = false;
-        private CancellationTokenSource _cancellationTokenSource;
+        
         private async void AutoMode(object? sender, EventArgs e)
         {
              if (_isCycleRunning)
@@ -112,11 +135,14 @@ namespace alexm_maui
                 _cancellationTokenSource.Cancel();
                 _isCycleRunning = false;
                 TurnOff(null, new EventArgs());
+                IsItActive = true;
             }
             else
             {
                 _cancellationTokenSource = new CancellationTokenSource(); // Создаем новый токен для отмены
                 _isCycleRunning = true;
+                TurnOff(null, new EventArgs());
+                IsItActive = true;
                 await StartAutoMode(); // Запускаем цикл
             }
         }
@@ -133,13 +159,42 @@ namespace alexm_maui
                 }
             }
         }
+        private async void NightMode(object? sender, EventArgs e)
+        {
+             if (_isCycleRunning)
+            {
+                _cancellationTokenSource.Cancel();
+                _isCycleRunning = false;
+                TurnOff(null, new EventArgs());
+                IsItActive = true;
+            }
+            else
+            {
+                _cancellationTokenSource = new CancellationTokenSource(); // Создаем новый токен для отмены
+                _isCycleRunning = true;
+                TurnOff(null, new EventArgs());
+                IsItActive = true;
+                await StartNightMode(); // Запускаем цикл
+            }
+        }
+        private async Task StartNightMode()
+        {
+            while (!_cancellationTokenSource.IsCancellationRequested)
+            {
+                States[1].Active = true;
+                await Task.Delay(1000);
+                States[1].Active = false;
+                await Task.Delay(1000);
+            }
+        }
         public ValgusfoorPage()
         {
              BottomButtons = new Dictionary<string, EventHandler>()
             {
                 { "Lülita välja",  TurnOff },
                 { "Lülita sisse", TurnOn},
-                 { "Automaatrežiimi sisselülitamine", AutoMode }
+                { "Automaatrežiimi sisselülitamine", AutoMode },
+                { "Kollane",  NightMode}
             };
             Content = MainContainer;
             
