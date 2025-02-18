@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("alexm_maui")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+31bd6e7e97c349de2b4ef722d48e031433366151")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+3da36d988ac1f2c501aacfd33a18c1c9bc6d966a")]
 [assembly: System.Reflection.AssemblyProductAttribute("alexm_maui")]
 [assembly: System.Reflection.AssemblyTitleAttribute("alexm_maui")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

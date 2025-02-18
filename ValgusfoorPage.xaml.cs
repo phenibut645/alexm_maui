@@ -139,11 +139,11 @@ namespace alexm_maui
             }
             else
             {
-                _cancellationTokenSource = new CancellationTokenSource(); // Создаем новый токен для отмены
+                _cancellationTokenSource = new CancellationTokenSource();
                 _isCycleRunning = true;
                 TurnOff(null, new EventArgs());
                 IsItActive = true;
-                await StartAutoMode(); // Запускаем цикл
+                await StartAutoMode();
             }
         }
         private async Task StartAutoMode()
@@ -170,11 +170,11 @@ namespace alexm_maui
             }
             else
             {
-                _cancellationTokenSource = new CancellationTokenSource(); // Создаем новый токен для отмены
+                _cancellationTokenSource = new CancellationTokenSource()
                 _isCycleRunning = true;
                 TurnOff(null, new EventArgs());
                 IsItActive = true;
-                await StartNightMode(); // Запускаем цикл
+                await StartNightMode();
             }
         }
         private async Task StartNightMode()
