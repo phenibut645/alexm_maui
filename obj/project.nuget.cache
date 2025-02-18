@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mAcb2mVD+sw=",
+  "dgSpecHash": "xBETkQPYWfw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\opilane\\Source\\Repos\\alexm_maui\\alexm_maui.csproj",
+  "projectFilePath": "C:\\Users\\opilane\\source\\repos\\ds\\alexm_maui.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\opilane\\.nuget\\packages\\googlegson\\2.10.1.4\\googlegson.2.10.1.4.nupkg.sha512",
     "C:\\Users\\opilane\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",
@@ -25,7 +25,7 @@
     "C:\\Users\\opilane\\.nuget\\packages\\microsoft.maui.graphics\\8.0.72\\microsoft.maui.graphics.8.0.72.nupkg.sha512",
     "C:\\Users\\opilane\\.nuget\\packages\\microsoft.maui.graphics.win2d.winui.desktop\\8.0.72\\microsoft.maui.graphics.win2d.winui.desktop.8.0.72.nupkg.sha512",
     "C:\\Users\\opilane\\.nuget\\packages\\microsoft.maui.resizetizer\\8.0.72\\microsoft.maui.resizetizer.8.0.72.nupkg.sha512",
-    "C:\\Users\\opilane\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.7\\microsoft.net.illink.tasks.8.0.7.nupkg.sha512",
+    "C:\\Users\\opilane\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.8\\microsoft.net.illink.tasks.8.0.8.nupkg.sha512",
     "C:\\Users\\opilane\\.nuget\\packages\\microsoft.windows.sdk.buildtools\\10.0.22621.756\\microsoft.windows.sdk.buildtools.10.0.22621.756.nupkg.sha512",
     "C:\\Users\\opilane\\.nuget\\packages\\microsoft.windowsappsdk\\1.5.240607001\\microsoft.windowsappsdk.1.5.240607001.nupkg.sha512",
     "C:\\Users\\opilane\\.nuget\\packages\\xamarin.android.glide\\4.15.1.2\\xamarin.android.glide.4.15.1.2.nupkg.sha512",
@@ -111,15 +111,6 @@
     "C:\\Users\\opilane\\.nuget\\packages\\xamarin.kotlin.stdlib.jdk8\\1.9.0.1\\xamarin.kotlin.stdlib.jdk8.1.9.0.1.nupkg.sha512",
     "C:\\Users\\opilane\\.nuget\\packages\\xamarin.kotlinx.coroutines.android\\1.7.2.1\\xamarin.kotlinx.coroutines.android.1.7.2.1.nupkg.sha512",
     "C:\\Users\\opilane\\.nuget\\packages\\xamarin.kotlinx.coroutines.core.jvm\\1.7.2.1\\xamarin.kotlinx.coroutines.core.jvm.1.7.2.1.nupkg.sha512",
-    "C:\\Users\\opilane\\.nuget\\packages\\microsoft.android.runtime.34.android-x64\\34.0.113\\microsoft.android.runtime.34.android-x64.34.0.113.nupkg.sha512",
-    "C:\\Users\\opilane\\.nuget\\packages\\microsoft.android.runtime.34.android-arm64\\34.0.113\\microsoft.android.runtime.34.android-arm64.34.0.113.nupkg.sha512",
-    "C:\\Users\\opilane\\.nuget\\packages\\microsoft.android.ref.34\\34.0.113\\microsoft.android.ref.34.34.0.113.nupkg.sha512",
-    "C:\\Users\\opilane\\.nuget\\packages\\microsoft.android.runtime.34.android-arm\\34.0.113\\microsoft.android.runtime.34.android-arm.34.0.113.nupkg.sha512",
-    "C:\\Users\\opilane\\.nuget\\packages\\microsoft.android.runtime.34.android-x86\\34.0.113\\microsoft.android.runtime.34.android-x86.34.0.113.nupkg.sha512",
-    "C:\\Users\\opilane\\.nuget\\packages\\microsoft.ios.runtime.iossimulator-x64.net8.0_17.5\\17.5.8020\\microsoft.ios.runtime.iossimulator-x64.net8.0_17.5.17.5.8020.nupkg.sha512",
-    "C:\\Users\\opilane\\.nuget\\packages\\microsoft.ios.ref.net8.0_17.5\\17.5.8020\\microsoft.ios.ref.net8.0_17.5.17.5.8020.nupkg.sha512",
-    "C:\\Users\\opilane\\.nuget\\packages\\microsoft.maccatalyst.ref.net8.0_17.5\\17.5.8020\\microsoft.maccatalyst.ref.net8.0_17.5.17.5.8020.nupkg.sha512",
-    "C:\\Users\\opilane\\.nuget\\packages\\microsoft.maccatalyst.runtime.maccatalyst-x64.net8.0_17.5\\17.5.8020\\microsoft.maccatalyst.runtime.maccatalyst-x64.net8.0_17.5.17.5.8020.nupkg.sha512",
     "C:\\Users\\opilane\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.19041.34\\microsoft.windows.sdk.net.ref.10.0.19041.34.nupkg.sha512"
   ],
   "logs": []

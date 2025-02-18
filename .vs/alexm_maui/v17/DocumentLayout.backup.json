@@ -1,46 +1,66 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\opilane\\source\\repos\\alexm_maui\\",
+  "WorkspaceRootPath": "C:\\Users\\opilane\\source\\repos\\ds\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\opilane\\source\\repos\\alexm_maui\\ValgusfoorPage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ValgusfoorPage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{580FF77D-2163-4530-BBE4-AF7A6DD11D9F}|alexm_maui.csproj|c:\\users\\opilane\\source\\repos\\ds\\rgb_page.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{580FF77D-2163-4530-BBE4-AF7A6DD11D9F}|alexm_maui.csproj|solutionrelative:rgb_page.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\opilane\\source\\repos\\alexm_maui\\ValgusfoorPage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ValgusfoorPage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{580FF77D-2163-4530-BBE4-AF7A6DD11D9F}|alexm_maui.csproj|c:\\users\\opilane\\source\\repos\\ds\\models\\rgbsliders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{580FF77D-2163-4530-BBE4-AF7A6DD11D9F}|alexm_maui.csproj|solutionrelative:models\\rgbsliders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\opilane\\source\\repos\\alexm_maui\\AppShell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AppShell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{580FF77D-2163-4530-BBE4-AF7A6DD11D9F}|alexm_maui.csproj|c:\\users\\opilane\\source\\repos\\ds\\models\\trafficlightstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{580FF77D-2163-4530-BBE4-AF7A6DD11D9F}|alexm_maui.csproj|solutionrelative:models\\trafficlightstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\opilane\\source\\repos\\alexm_maui\\App.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:App.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{580FF77D-2163-4530-BBE4-AF7A6DD11D9F}|alexm_maui.csproj|c:\\users\\opilane\\source\\repos\\ds\\valgusfoorpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{580FF77D-2163-4530-BBE4-AF7A6DD11D9F}|alexm_maui.csproj|solutionrelative:valgusfoorpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\opilane\\source\\repos\\alexm_maui\\AppContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AppContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{580FF77D-2163-4530-BBE4-AF7A6DD11D9F}|alexm_maui.csproj|c:\\users\\opilane\\source\\repos\\ds\\alexm_maui.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{580FF77D-2163-4530-BBE4-AF7A6DD11D9F}|alexm_maui.csproj|solutionrelative:alexm_maui.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\opilane\\source\\repos\\alexm_maui\\MainPage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MainPage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{580FF77D-2163-4530-BBE4-AF7A6DD11D9F}|alexm_maui.csproj|c:\\users\\opilane\\source\\repos\\ds\\rgb_page.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{580FF77D-2163-4530-BBE4-AF7A6DD11D9F}|alexm_maui.csproj|solutionrelative:rgb_page.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\opilane\\source\\repos\\alexm_maui\\MainPage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MainPage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{580FF77D-2163-4530-BBE4-AF7A6DD11D9F}|alexm_maui.csproj|c:\\users\\opilane\\source\\repos\\ds\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{580FF77D-2163-4530-BBE4-AF7A6DD11D9F}|alexm_maui.csproj|solutionrelative:mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\opilane\\source\\repos\\alexm_maui\\AppShell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AppShell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{580FF77D-2163-4530-BBE4-AF7A6DD11D9F}|alexm_maui.csproj|c:\\users\\opilane\\source\\repos\\ds\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{580FF77D-2163-4530-BBE4-AF7A6DD11D9F}|alexm_maui.csproj|solutionrelative:appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\opilane\\source\\repos\\alexm_maui\\MauiProgram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MauiProgram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{580FF77D-2163-4530-BBE4-AF7A6DD11D9F}|alexm_maui.csproj|c:\\users\\opilane\\source\\repos\\ds\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{580FF77D-2163-4530-BBE4-AF7A6DD11D9F}|alexm_maui.csproj|solutionrelative:mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\opilane\\source\\repos\\alexm_maui\\Models\\TrafficLightState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\TrafficLightState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{580FF77D-2163-4530-BBE4-AF7A6DD11D9F}|alexm_maui.csproj|c:\\users\\opilane\\source\\repos\\ds\\appcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{580FF77D-2163-4530-BBE4-AF7A6DD11D9F}|alexm_maui.csproj|solutionrelative:appcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{580FF77D-2163-4530-BBE4-AF7A6DD11D9F}|alexm_maui.csproj|c:\\users\\opilane\\source\\repos\\ds\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{580FF77D-2163-4530-BBE4-AF7A6DD11D9F}|alexm_maui.csproj|solutionrelative:appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{580FF77D-2163-4530-BBE4-AF7A6DD11D9F}|alexm_maui.csproj|c:\\users\\opilane\\source\\repos\\ds\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{580FF77D-2163-4530-BBE4-AF7A6DD11D9F}|alexm_maui.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{580FF77D-2163-4530-BBE4-AF7A6DD11D9F}|alexm_maui.csproj|c:\\users\\opilane\\source\\repos\\ds\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{580FF77D-2163-4530-BBE4-AF7A6DD11D9F}|alexm_maui.csproj|solutionrelative:mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{580FF77D-2163-4530-BBE4-AF7A6DD11D9F}|alexm_maui.csproj|c:\\users\\opilane\\source\\repos\\ds\\valgusfoorpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{580FF77D-2163-4530-BBE4-AF7A6DD11D9F}|alexm_maui.csproj|solutionrelative:valgusfoorpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{580FF77D-2163-4530-BBE4-AF7A6DD11D9F}|alexm_maui.csproj|c:\\users\\opilane\\source\\repos\\ds\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{580FF77D-2163-4530-BBE4-AF7A6DD11D9F}|alexm_maui.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -49,9 +69,37 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "DockedWidth": 177,
+          "SelectedChildIndex": 14,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
@@ -66,135 +114,210 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ValgusfoorPage.xaml",
-              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\alexm_maui\\ValgusfoorPage.xaml",
-              "RelativeDocumentMoniker": "ValgusfoorPage.xaml",
-              "ToolTip": "C:\\Users\\opilane\\source\\repos\\alexm_maui\\ValgusfoorPage.xaml",
-              "RelativeToolTip": "ValgusfoorPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-02-17T22:09:17.571Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ValgusfoorPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\alexm_maui\\ValgusfoorPage.xaml.cs",
-              "RelativeDocumentMoniker": "ValgusfoorPage.xaml.cs",
-              "ToolTip": "C:\\Users\\opilane\\source\\repos\\alexm_maui\\ValgusfoorPage.xaml.cs",
-              "RelativeToolTip": "ValgusfoorPage.xaml.cs",
-              "ViewState": "AgIAAKoAAAAAAAAAAAAzwLoAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T22:09:09.668Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "AppShell.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\alexm_maui\\AppShell.xaml.cs",
-              "RelativeDocumentMoniker": "AppShell.xaml.cs",
-              "ToolTip": "C:\\Users\\opilane\\source\\repos\\alexm_maui\\AppShell.xaml.cs",
-              "RelativeToolTip": "AppShell.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Title": "TrafficLightState.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\ds\\Models\\TrafficLightState.cs",
+              "RelativeDocumentMoniker": "Models\\TrafficLightState.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\ds\\Models\\TrafficLightState.cs",
+              "RelativeToolTip": "Models\\TrafficLightState.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAADgvx8AAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T22:08:52.827Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\alexm_maui\\App.xaml",
-              "RelativeDocumentMoniker": "App.xaml",
-              "ToolTip": "C:\\Users\\opilane\\source\\repos\\alexm_maui\\App.xaml",
-              "RelativeToolTip": "App.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-02-17T22:08:50.502Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AppContext.cs",
-              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\alexm_maui\\AppContext.cs",
-              "RelativeDocumentMoniker": "AppContext.cs",
-              "ToolTip": "C:\\Users\\opilane\\source\\repos\\alexm_maui\\AppContext.cs",
-              "RelativeToolTip": "AppContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T22:08:11.532Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MainPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\alexm_maui\\MainPage.xaml.cs",
-              "RelativeDocumentMoniker": "MainPage.xaml.cs",
-              "ToolTip": "C:\\Users\\opilane\\source\\repos\\alexm_maui\\MainPage.xaml.cs",
-              "RelativeToolTip": "MainPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T22:07:14.294Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "MainPage.xaml",
-              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\alexm_maui\\MainPage.xaml",
-              "RelativeDocumentMoniker": "MainPage.xaml",
-              "ToolTip": "C:\\Users\\opilane\\source\\repos\\alexm_maui\\MainPage.xaml",
-              "RelativeToolTip": "MainPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-02-17T22:06:18.526Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AppShell.xaml",
-              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\alexm_maui\\AppShell.xaml",
-              "RelativeDocumentMoniker": "AppShell.xaml",
-              "ToolTip": "C:\\Users\\opilane\\source\\repos\\alexm_maui\\AppShell.xaml",
-              "RelativeToolTip": "AppShell.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-02-17T22:06:34.857Z"
+              "WhenOpened": "2025-02-17T22:09:34.161Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "MauiProgram.cs",
-              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\alexm_maui\\MauiProgram.cs",
-              "RelativeDocumentMoniker": "MauiProgram.cs",
-              "ToolTip": "C:\\Users\\opilane\\source\\repos\\alexm_maui\\MauiProgram.cs",
-              "RelativeToolTip": "MauiProgram.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAATAAAAAAAAAA==",
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\ds\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\ds\\MainPage.xaml.cs",
+              "RelativeToolTip": "MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAByAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T22:06:19.418Z"
+              "WhenOpened": "2025-02-17T22:07:14.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "rgb_page.xaml",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\ds\\rgb_page.xaml",
+              "RelativeDocumentMoniker": "rgb_page.xaml",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\ds\\rgb_page.xaml",
+              "RelativeToolTip": "rgb_page.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-18T06:54:42.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "rgb_page.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\ds\\rgb_page.xaml.cs",
+              "RelativeDocumentMoniker": "rgb_page.xaml.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\ds\\rgb_page.xaml.cs*",
+              "RelativeToolTip": "rgb_page.xaml.cs*",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAwwC4AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T06:54:47.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\ds\\AppShell.xaml",
+              "RelativeDocumentMoniker": "AppShell.xaml",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\ds\\AppShell.xaml",
+              "RelativeToolTip": "AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-17T22:06:34.857Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "TrafficLightState.cs",
-              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\alexm_maui\\Models\\TrafficLightState.cs",
-              "RelativeDocumentMoniker": "Models\\TrafficLightState.cs",
-              "ToolTip": "C:\\Users\\opilane\\source\\repos\\alexm_maui\\Models\\TrafficLightState.cs",
-              "RelativeToolTip": "Models\\TrafficLightState.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAfAAAAAAAAAA==",
+              "Title": "AppContext.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\ds\\AppContext.cs",
+              "RelativeDocumentMoniker": "AppContext.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\ds\\AppContext.cs",
+              "RelativeToolTip": "AppContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T22:09:34.161Z"
+              "WhenOpened": "2025-02-18T07:58:15.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "alexm_maui",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\ds\\alexm_maui.csproj",
+              "RelativeDocumentMoniker": "alexm_maui.csproj",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\ds\\alexm_maui.csproj",
+              "RelativeToolTip": "alexm_maui.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-18T07:59:05.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\ds\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\ds\\AppShell.xaml.cs",
+              "RelativeToolTip": "AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T22:08:52.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RGBSliders.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\ds\\Models\\RGBSliders.cs",
+              "RelativeDocumentMoniker": "Models\\RGBSliders.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\ds\\Models\\RGBSliders.cs",
+              "RelativeToolTip": "Models\\RGBSliders.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAYwD4AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T06:57:10.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\ds\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "MauiProgram.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\ds\\MauiProgram.cs",
+              "RelativeToolTip": "MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T22:06:19.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ValgusfoorPage.xaml",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\ds\\ValgusfoorPage.xaml",
+              "RelativeDocumentMoniker": "ValgusfoorPage.xaml",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\ds\\ValgusfoorPage.xaml",
+              "RelativeToolTip": "ValgusfoorPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-17T22:09:17.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\ds\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\ds\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-17T22:08:50.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\ds\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MainPage.xaml",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\ds\\MainPage.xaml",
+              "RelativeToolTip": "MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-17T22:06:18.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ValgusfoorPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\ds\\ValgusfoorPage.xaml.cs",
+              "RelativeDocumentMoniker": "ValgusfoorPage.xaml.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\ds\\ValgusfoorPage.xaml.cs",
+              "RelativeToolTip": "ValgusfoorPage.xaml.cs",
+              "ViewState": "AgIAAJcAAAAAAAAAAAAtwLAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T22:09:09.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\source\\repos\\ds\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\Users\\opilane\\source\\repos\\ds\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T07:22:58.614Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 214,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             }
           ]
         }

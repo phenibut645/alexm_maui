@@ -11,35 +11,35 @@ namespace alexm_maui.Models
     public class RGBSliders
     {
         public event FinalColorChangedHandler FinalColorChanged;
-        public int Red 
+        public int Red
         {
             get
             {
-                return RedSlider.Value;
+                return (int)RedSlider.Value;
             }
             set
             {
                 FinalColor[0] = value;
-                FinalColorChanged?.Invoke();
+                FinalColorChanged?.Invoke(FinalColor);
             }
         }
         public int Green
         {
             get
             {
-                return GreenSlider.Value;
+                return (int)GreenSlider.Value;
             }
             set
             {
                 FinalColor[1] = value;
-                FinalColorChanged?.Invoke();
+                FinalColorChanged?.Invoke(FinalColor);
             }
         }
         public int Blue
         {
             get
             {
-                return BlueSlider.Value;
+                return (int)BlueSlider.Value;
             }
             set
             {
@@ -60,7 +60,7 @@ namespace alexm_maui.Models
                 };
             }
         }
-        private List<int> _finalColor = new List<int>();
+        private List<int> _finalColor = new List<int>() { 0,0,0};
         public List<int> FinalColor
         {
             get
@@ -78,25 +78,39 @@ namespace alexm_maui.Models
             foreach (Slider? slider in SlidersList)
             {
                 index++;
-                slider = new Slider()
+                Slider slider2 = new Slider()
                 {
                     Minimum = 0,
                     Maximum = 255,
+                    Value = 25
+                };
+                switch (index)
+                {
+                    case 0:
+                        RedSlider = slider2;
+                        break;
+                    case 1:
+                        GreenSlider = slider2;
+                        break;
+                        case 2: 
+                         BlueSlider = slider2;
+                        break;
                 }
-                slider.ValueChanged += (object? sender, EventArgs e) =>
+                slider2.ValueChanged += (object? sender, ValueChangedEventArgs e) =>
                 {
                     Slider slider = sender as Slider;
                     int ind = index;
                     switch (ind)
                     {
                         case 0:
-                            RedSlider = slider.Value;
+                            
+                            Red = (int)slider2.Value;
                             break;
                         case 1:
-                            GreenSlider = slider.Value;
+                            Green = (int)slider2.Value;
                             break;
                         case 2:
-                            BlueSlider = slider.Value;
+                            Blue = (int)slider2.Value;
                             break;
                     }
                 };
@@ -104,7 +118,7 @@ namespace alexm_maui.Models
 
         }
 
-        
+
 
     }
 }

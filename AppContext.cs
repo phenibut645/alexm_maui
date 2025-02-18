@@ -8,6 +8,6 @@ namespace alexm_maui
 {
     public static class AppContext
     {
-        public static List<ContentPage> Pages { get; set; } = new List<ContentPage>() { new ValgusfoorPage() };
+        public static List<ContentPage> Pages { get; set; } = new List<ContentPage>() { new ValgusfoorPage(), new rgb_page() };
     }
 }

@@ -2,7 +2,7 @@
 
 public partial class MainPage : ContentPage
 {
-    public List<string> Texts { get; set; } = new List<string> { "Tee lahti ValgusfoorPage" };
+    public List<string> Texts { get; set; } = new List<string> { "Tee lahti ValgusfoorPage", "Izitizer on the beat" };
     ScrollView ScrollContainer { get; set; }
     VerticalStackLayout MainContainer { get; set; }
     public MainPage()

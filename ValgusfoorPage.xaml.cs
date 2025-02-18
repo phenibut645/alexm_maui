@@ -170,7 +170,7 @@ namespace alexm_maui
             }
             else
             {
-                _cancellationTokenSource = new CancellationTokenSource()
+                _cancellationTokenSource = new CancellationTokenSource();
                 _isCycleRunning = true;
                 TurnOff(null, new EventArgs());
                 IsItActive = true;
